@@ -21,4 +21,4 @@ jobs:
 
       - name: Run unit tests
         run: |
-          python -m unittest
+          python test_products.py
